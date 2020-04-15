@@ -1,0 +1,14 @@
+{
+  "author": "kepikoi <kepi@binks.rocks>",
+  "dependencies": {
+    "axios": "0.19.2",
+    "xmlhttprequest": "1.8.0"
+  },
+  "description": "Repro for axios issues #319 and #2731",
+  "license": "ISC",
+  "name": "axios-repro319",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}
